@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>
+		First webpage
+	</title>
+</head>
+
+<body>
+	
+	<nav class="navbar background">
+		<ul class="nav-list">
+			<div class="logo">
+				<img src="data:image/jpeg;base64,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">
+			</div>
+			<li><a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black Hat Hacker</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White Hat Hacker</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/Grey_hat">Gray Hat Hacker</a></li>
+		</ul>
+	</nav>
+<br>
+<br>
+<br>
+<br>
+
+<section class="firstsection">
+		<div class="box-main">
+			<div class="firstHalf">
+				<h1 class="text-big" id="web">
+				Black Hat Hacker
+				</h1>
+				
+				<p class="text-large">
+					Black-hat Hackers are also known as an Unethical Hacker or a Security Cracker. These people hack the system illegally to steal money or to achieve their own illegal goals. They find banks or other companies with weak security and steal money or credit card information. They can also modify or destroy the data as well. Black hat hacking is illegal.
+				</p>
+
+			</div>
+		</div>
+	</section>
+
+	<section class="secondsection">
+		<div class="box-main">
+			<div class="secondHalf">
+				<h1 class="text-big" id="program">
+					White Hat Hacker
+				</h1>
+				<p class="text-small">
+					White hat Hackers are also known as Ethical Hackers or a Penetration Tester. White hat hackers are the good guys of the hacker world.
+				<br>
+These people use the same technique used by the black hat hackers. They also hack the system, but they can only hack the system that they have permission to hack in order to test the security of the system. They focus on security and protecting IT system. White hat hacking is legal.
+				</p>
+
+			</div>
+		</div>
+	</section>
+
+	<section class="section">
+		<div class="paras">
+			<h1 class="sectionTag text-big">Gray Hat Hacker</h1>
+
+			<p class="sectionSubTag text-small">
+				Gray hat Hackers are Hybrid between Black hat Hackers and White hat hackers. They can hack any system even if they don't have permission to test the security of the system but they will never steal money or damage the system.
+                <br>
+
+In most cases, they tell the administrator of that system. But they are also illegal because they test the security of the system that they do not have permission to test. Grey hat hacking is sometimes acted legally and sometimes not.
+			</p>
+
+		</div>
+
+		<div class="thumbnail">
+			<img src="https://s3.envato.com/files/263673987/Hacker%20Logo%20Reveal%20Image.jpg" alt="laptop image">
+		</div>
+	</section>
+
+	
+</body>
+
+</html>
